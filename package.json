@@ -1,5 +1,6 @@
 {
   "name": "setting-text",
+  "homepage": "https://github.com/Hung-petter/text-size.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
